@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="116dp"
+        android:layout_height="370dp"
+        android:background="@drawable/bg_overlay"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="294dp"
+        tools:layout_editor_absoluteY="71dp">
+
+
+    <ImageButton
+        android:id="@+id/alarm_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/alarm_overlay"
+        android:contentDescription="@string/alarm_button" />
+
+    <ImageButton
+        android:id="@+id/call_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/call_overlay"
+        android:contentDescription="@string/call_button" />
+
+    <ImageButton
+        android:id="@+id/phone_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/phonebook_overlay"
+        android:contentDescription="@string/phonebook_button" />
+
+    <ImageButton
+        android:id="@+id/sms_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/sms_overlay"
+        android:contentDescription="@string/sms_button" />
+
+    <ImageButton
+        android:id="@+id/close_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/cross_overlay"
+        android:contentDescription="@string/close_button" />
+    </LinearLayout>

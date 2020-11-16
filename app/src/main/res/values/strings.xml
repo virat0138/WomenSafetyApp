@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">WomenSafetyApp_v2</string>
+    <string name="start_app_button">Start App</string>
+    <string name="stop_app_button">Stop App</string>
+    <string name="emergency_button">Emergency Contacts</string>
+    <string name="alarm_button">Security Alarm</string>
+    <string name="call_button">Emergency Call</string>
+    <string name="sms_button">To send SMS with your location</string>
+    <string name="phonebook_button">Phonebook for easy access</string>
+    <string name="close_button">Close the app</string>
+    <string name="Phone1">Contact 1</string>
+    <string name="Phone2">Contact 2</string>
+    <string name="Phone3">Contact 3</string>
+    <string name="description">Ladies\' well-being is a major concern which has been the main theme to date. Ladies\' security matters a ton whether at home, outside the home, or working spot.As women should travel late around evening time by and large, it\'s important to stay ready and safe.
+        The greater part of the females nowadays convey their cell phone with them, so it is important to have at any rate one of the individual wellbeing applications introduced. Such a security application for women will encourage as it were or the inverse. This is an easy to use application that can be gotten to by any individual who has introduced it on their cell phones.
+ In this System User needs to feed 3 personal Conatct Number in case of Emergency. After completing the task, User can now start the app and can Use the Service Provided.\n\n
+
+        \n Services are:-\n
+        1. There will be Security Siren which keeps ringing until you press it again to stop. This function will help in a way that atleast someone will notice the Activity going around and can help a Women.\n
+        2. After you have entered the emergency Contacts , When you click on SMS button, the SMS will go to the provided contacts with your location.\n
+        3. There is Phone Icon button that directly calls to the Police.\n
+        4. Phonebook button will directly open your Contact list.\n
+
+         \nThere will Women Helpine Number Available in the App.\n
+
+        \nApp Created By:-\n
+        Students of UPES, dehradun\n
+        B.tech CSE - Mobile Application and Development\n
+
+        \n Name -
+        1. Virat Kaushik (Sap ID - 500069110)\n
+        2. Pulkit Kumar Sinha (Sap ID - 500069436)\n
+        3. Alby Cherian Koshy (Sap ID - 500069216)\n
+
+</string>
+    <string name="title_activity_s_m_sapp">Map</string>
+
+</resources>
